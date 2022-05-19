@@ -1,9 +1,8 @@
 import React from 'react'
+import Topbar from '../../components/topbar/Topbar';
 
 export default function home() {
   return (
-    <div>
-        this is homepage
-    </div>
+   <Topbar/>
   )
 }
