@@ -77,6 +77,51 @@ export default function Sidebar() {
                     <span className="sidebarFriendName">cheems bhaiya</span>
 
                 </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
+                <li className="sidebarFriend">
+                    <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+                    <span className="sidebarFriendName">cheems bhaiya</span>
+
+                </li>
 
             </ul>
 
