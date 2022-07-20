@@ -13,11 +13,72 @@ export default function Rightbar() {
         <ul className="rightbarFriendList">
           <li className="rightbarFriend">
             <div className="rightbarProfileImgContainer">
-              <img className="rightbarprofileImg"
+              <img className="rightbarProfileImg"
               src="assets/person/3.jpeg" alt="" 
               />
               <span className="rightbarOnline"></span>
             </div>
+            <span className="rightbarUsername">Dogender Singh</span>
+          </li>
+
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg"
+              src="assets/person/3.jpeg" alt="" 
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">Dogender Singh</span>
+          </li>
+
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg"
+              src="assets/person/3.jpeg" alt="" 
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">Dogender Singh</span>
+          </li>
+
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg"
+              src="assets/person/3.jpeg" alt="" 
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">Dogender Singh</span>
+          </li>
+
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg"
+              src="assets/person/3.jpeg" alt="" 
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">Dogender Singh</span>
+          </li>
+
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg"
+              src="assets/person/3.jpeg" alt="" 
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">Dogender Singh</span>
+          </li>
+
+          <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg"
+              src="assets/person/3.jpeg" alt="" 
+              />
+              <span className="rightbarOnline"></span>
+            </div>
+            <span className="rightbarUsername">Dogender Singh</span>
           </li>
         </ul>
       </div>
