@@ -1,14 +1,22 @@
 import "./topbar.css"
+import { Link } from "react-router-dom";
+
+
 import SearchIcon from '@mui/icons-material/Search';
 import PersonIcon from '@mui/icons-material/Person';
 import ChatIcon from '@mui/icons-material/Chat';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 
+
+
 export default function Topbar() {
   return (
     <div className="topbarContainer">
         <div className="topbarLeft">
+          <Link to='/' style={{textDecoration:"none"}}>
           <span className="logo">Facebook</span>
+          </Link>
+          
         </div>
         <div className="topbarCenter">
           <div className="searchbar">
